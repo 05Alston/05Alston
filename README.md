@@ -1,7 +1,6 @@
 
-# Hi there ![Hello](./wave.gif =100x20)
-
-## I'm Alston & this is Blinky! <img src="./blinky.png" width="100px" height="100px" align=right/>
+# Hi there [<img src="./wave.gif " width="50"/>](Hi)
+## I'm Alston & this is Blinky!  [<img src="./blinky.png" width="100" align=right/>](Blinky)
 
 A student developer from India, based in Mumbai.
 
@@ -74,7 +73,7 @@ A student developer from India, based in Mumbai.
 [![GitHub Streak](https://streak-stats.demolab.com?user=05Alston&theme=blueberry_duo&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2034%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
 
@@ -143,4 +142,4 @@ CSS                      1 repo              ██░░░░░░░░░�
 ```
 
  Last Updated on 01/11/2022
-<!--END_SECTION:waka-->
+END_SECTION:waka -->
