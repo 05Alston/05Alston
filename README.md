@@ -2,7 +2,7 @@
 
 A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ App development, but willing to work on projects of any domain.
 
-## & this is Blinky!  [<img src="./blinky.png" width="100" align=right/>](Blinky)
+## & this is Blinky!  [<img src="./blinky.png" width="100" align=right/>](https://pacman.fandom.com/wiki/Blinky)
 
 <!-- [![Hello](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter) -->
 
@@ -11,7 +11,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 
 - 🔭 I’m currently working on some personal projects.
 - 👯 I’m looking to collaborate on any web development or python projects.
-- 🌱 I’m currently learning [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org) 
+- 🌱 I’m currently learning [![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org) 
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:0508alstonfernandes@gmail.com) [![Linkedin](https://img.shields.io/badge/linked-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/alston-fernandes-b28720220/) [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/cF44en2S)
 
 ## Operating System & Editors
