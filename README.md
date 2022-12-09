@@ -1,23 +1,18 @@
+# Hi there, I'm Alston  [<img src="./wave.gif " width="50"/>]() 
 
-# Hi there [<img src="./wave.gif " width="50"/>](Hi)
-## I'm Alston & this is Blinky!  [<img src="./blinky.png" width="100" align=right/>](Blinky)
+A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ App development, but willing to work on projects of any domain.
 
-A student developer from India, based in Mumbai.
-
+## & this is Blinky!  [<img src="./blinky.png" width="100" align=right/>](Blinky)
 
 <!-- [![Hello](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter) -->
 
 
 ## About Me
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-- 🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
-
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:cxydfreedom@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/cxyfreedom) [![Discord](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/cxyfreedom)
+- 🔭 I’m currently working on some personal projects.
+- 👯 I’m looking to collaborate on any web development or python projects.
+- 🌱 I’m currently learning [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org) 
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:0508alstonfernandes@gmail.com) [![Linkedin](https://img.shields.io/badge/linked-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/alston-fernandes-b28720220/) [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/cF44en2S)
 
 ## Operating System & Editors
 
@@ -30,30 +25,27 @@ A student developer from India, based in Mumbai.
 [![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim)](https://neovim.io)
 
 ## Technology Stack & Tools
-<!-- Programming -->
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.java.com)
 <!-- [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org) -->
 
-<!-- Frontend -->
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
 
-<!-- Backend -->
 [![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff)](http://expressjs.com/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 
-<!-- Database -->
 <!-- [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/) -->
+
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
-<!-- Tools -->
 [![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=000000)](https://unity.com)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
@@ -73,9 +65,8 @@ A student developer from India, based in Mumbai.
 [![GitHub Streak](https://streak-stats.demolab.com?user=05Alston&theme=blueberry_duo&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
+<!-- 
 
 **🐱 My GitHub Data**
 
@@ -142,4 +133,4 @@ CSS                      1 repo              ██░░░░░░░░░�
 ```
 
  Last Updated on 01/11/2022
-END_SECTION:waka -->
+<!--END_SECTION:waka-->
