@@ -16,12 +16,10 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 
 ## Operating System & Editors
 
-[![Archcraft](https://img.shields.io/badge/Archcraft-2022.09.16-1793D1?style=for-the-badge&logo=archlinux)](https://www.archcraft.io/)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-21-87CF3E?style=for-the-badge&logo=linuxmint)](https://linuxmint.com)
+[![Arch](https://img.shields.io/badge/Arch-2023.06.01-1793D1?style=for-the-badge&logo=archlinux)]([https://www.archcraft.io/](https://wiki.archlinux.org))
 [![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows)](https://www.centos.org/)
 
 [![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![Sublime](https://img.shields.io/badge/Editor-Sublime-FF9800?style=for-the-badge&logo=sublimetext)](https://www.sublimetext.com)
 [![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim)](https://neovim.io)
 
 ## Technology Stack & Tools
@@ -55,7 +53,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=ffffff)](https://openvpn.net/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=ffffff)](https://app.netlify.com/)
 [![Rasa](https://img.shields.io/badge/-Rasa-5A16EE?style=flat-square&logo=&logoColor=ffffff)](https://rasa.com)
-[![Rive](https://img.shields.io/badge/-Rive-000000?style=flat-square&logo=&logoColor=ffffff)](https://rive.app)
+<!-- [![Rive](https://img.shields.io/badge/-Rive-000000?style=flat-square&logo=&logoColor=ffffff)](https://rive.app) -->
 [![Vivaldi](https://img.shields.io/badge/-Vivaldi-EF3939?style=flat-square&logo=vivaldi&logoColor=ffffff)](https://rive.app)
 
 [![@05alston's Holopin board](https://holopin.me/05alston)](https://holopin.io/@05alston)
