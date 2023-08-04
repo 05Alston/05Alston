@@ -2,7 +2,7 @@
 
 A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ App development, but willing to work on projects of any domain.
 
-## & this is Blinky!  [<img src="./blinky.png" width="100" align=right/>](https://pacman.fandom.com/wiki/Blinky)
+& this is Blinky!  [<img src="./blinky.png" width="100" align=center/>](https://pacman.fandom.com/wiki/Blinky)
 
 <!-- [![Hello](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter) -->
 
@@ -37,7 +37,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 
 [![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff)](http://expressjs.com/)
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
+<!-- [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/) -->
 
 <!-- [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/) -->
 
