@@ -67,7 +67,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 1.6 MB Used in GitHub's Storage 
  > 
 > 🏆 195 Contributions in the Year 2023
  > 
@@ -75,7 +75,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
  > 
 > 📜 41 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 30 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -110,5 +110,5 @@ Image (jpeg)             0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
- Last Updated on 04/08/2023 15:50:44 UTC
+ Last Updated on 04/08/2023 15:55:28 UTC
 <!--END_SECTION:waka-->
