@@ -63,6 +63,8 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [![GitHub Streak](https://streak-stats.demolab.com?user=05Alston&theme=blueberry_duo&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2017%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
@@ -75,6 +77,34 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 28/09/2024 05:40:25 UTC
+```text
+🌞 Morning                140 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.91 % 
+🌆 Daytime                312 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.32 % 
+🌃 Evening                726 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   56.59 % 
+🌙 Night                  105 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.18 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   157 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.24 % 
+Tuesday                  169 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.17 % 
+Wednesday                100 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.79 % 
+Thursday                 223 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.38 % 
+Friday                   208 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.21 % 
+Saturday                 255 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.88 % 
+Sunday                   171 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JSON                     2 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+```
+
+
+ Last Updated on 14/10/2024 05:41:45 UTC
 <!--END_SECTION:waka-->
