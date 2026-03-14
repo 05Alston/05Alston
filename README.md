@@ -63,8 +63,6 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [![GitHub Streak](https://streak-stats.demolab.com?user=05Alston&theme=blueberry_duo&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2023%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
@@ -78,5 +76,5 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 > 🔑 37 Private Repositories 
  > 
 
- Last Updated on 28/02/2026 05:56:48 UTC
+ Last Updated on 14/03/2026 06:07:09 UTC
 <!--END_SECTION:waka-->
